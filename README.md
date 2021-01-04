@@ -1,1 +1,1 @@
-# mapty-app
+# Mapty-app
