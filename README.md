@@ -7,3 +7,4 @@ It's a course project. 'The Complete JavaScript Course 2021: From Zero to Expert
 - Geolocation Api
 - Map - Leaflet Api
 - Classes
+- Local Storage
